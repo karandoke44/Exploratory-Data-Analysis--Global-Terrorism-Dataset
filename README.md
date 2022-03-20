@@ -1,7 +1,7 @@
 I have done Exploratory Data Analysis on Global Terrorism Dataset Using Plotly, Matplotlib, Seaborn, Pandas Libraries. 
 
-### Exploratory Data Analysis - Global Terrorism (Intermediate Level)
-#### Objective :-
+## Exploratory Data Analysis - Global Terrorism (Intermediate Level)
+### Objective =>
 - Perform Exploratory Data Analysis on dataset 'Global Terrorism'
 - As a security/defense analyst, try to find out the hot zone of terrorism.
 - What all security issues and insights you can derive by EDA?
